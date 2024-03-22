@@ -2,9 +2,13 @@
     border:2px solid rgb(255, 255, 255);
     margin-bottom:10px;
     border-radius:10px;
+    height:145px;
+    width:210px;
+    margin-right: 25px;
+  
 
 }
-
+ 
 h3,h4{ 
     margin:8px 
 }
